@@ -1,11 +1,11 @@
 <!-- generated using https://github-profile-maker.vercel.app/ -->
 
 # 💫About Me :
-🔭 I’m an aspiring developer based in Bangalore
-📚 Recently completed my Bachelors in Computer Applications
-⚡ In my free time, I enjoy football, Formula 1, and exploring cars
-💻 Currently working as an intern developer at a private company
-🌱 Always eager to learn new technologies and improve my skills
+- 🔭 I’m an aspiring developer based in Bangalore
+- 📚 Recently completed my Bachelors in Computer Applications
+- ⚡ In my free time, I enjoy football, Formula 1, and exploring cars
+- 💻 Currently working as an intern developer at a private company
+- 🌱 Always eager to learn new technologies and improve my skills
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.aju) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmalbuv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajmalbuv) 
@@ -17,8 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajmalbuv&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalbuv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ajmalbuv&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
